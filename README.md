@@ -52,7 +52,7 @@
   <header>
     <h1>Jubair Jull Karnine</h1>
     <p>IT Specialist | Data Manager | Web Developer</p>
-    <p>Email: <a href="mailto:jubair.karnine007@gmail.com">jubair.karnine007@gmail.com</a> | Phone: 01947505709</p>
+    <p>Email: <a href="mailto:jubair.karnine007@gmail.com"> jubair.karnine007@gmail.com</a> | Phone: 01947505709</p>
     <p>
       <a href="https://www.linkedin.com/in/jubair-karnine-0959042" target="_blank">LinkedIn</a> |
       <a href="https://www.facebook.com/jubair.karnine" target="_blank">Facebook</a>
