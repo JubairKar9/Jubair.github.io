@@ -37,7 +37,7 @@
       padding-left: 20px;
     }
     a {
-      color: #004080;
+      color: white;
       text-decoration: none;
     }
     footer {
